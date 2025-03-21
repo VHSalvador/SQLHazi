@@ -1,0 +1,2 @@
+# SQLHazi
+SQL adatprofilozás házi
